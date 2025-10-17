@@ -23,10 +23,10 @@ const Navbar = () => {
 
           {/* Icons (desktop) */}
           <div className="hidden md:flex items-center space-x-6">
-            <img src="/img/Persona.svg" alt="User" className="w-6 h-6 cursor-pointer" />
             <img src="/img/Lupa.svg" alt="Search" className="w-6 h-6 cursor-pointer" />
             <img src="/img/Corazon.png" alt="Heart" className="w-6 h-6 cursor-pointer" />
             <img src="/img/Carrito.png" alt="Cart" className="w-6 h-6 cursor-pointer" />
+            <img src="/img/Persona.svg" alt="User" className="w-6 h-6 cursor-pointer" />
           </div>
 
           {/* Mobile Menu Button */}
